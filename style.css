@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  text-align: center;
+}
+.cabecalho {
+  background-color: rebeccapurple;
+  color: white;
+  padding: 30px;
+  font-size: 14px;
+}
+
+.cabecalho ul {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+img {
+  width: 25vh;
+}
+.imagens {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+button {
+  margin: 10px 20px;
+}
+h2 {
+  font-size: 14px;
+}
+footer {
+  background-color: rebeccapurple;
+  width: 100vw;
+  padding: 20px;
+  margin-top: 100px;
+}
+#rodape {
+  display: inline-block;
+  padding: 10px;
+  width: 100vw;
+  text-align: left;
+}
+h3 {
+  padding: 0 0 20px 0;
+  font-size: 14px;
+}
+button {
+  margin-top: 20px;
+}
